@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiRest", "SistemaGestionAnuncios\ApiRest.csproj", "{D7296FB3-11FC-458C-AA26-306009852A57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionAnuncios", "GestionAnuncios\GestionAnuncios.csproj", "{5C717302-737F-45E3-8D0E-179A41678261}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7296FB3-11FC-458C-AA26-306009852A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7296FB3-11FC-458C-AA26-306009852A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7296FB3-11FC-458C-AA26-306009852A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7296FB3-11FC-458C-AA26-306009852A57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C717302-737F-45E3-8D0E-179A41678261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C717302-737F-45E3-8D0E-179A41678261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C717302-737F-45E3-8D0E-179A41678261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C717302-737F-45E3-8D0E-179A41678261}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70289743-B129-4BB4-B56E-60AEE4227244}
+	EndGlobalSection
+EndGlobal
